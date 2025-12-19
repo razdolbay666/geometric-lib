@@ -54,6 +54,11 @@
        perimeter(5, 7, 5)  
        Возвращаемое значение = 17  
 ## History of project
+* 38928b6 Udpate yml 4
+* 857a53e Update yml 3
+* 6022844 Update yml 2
+* fc62183 Update yml
+* 244c435 Create main.yml
 * Added Unit tests for each function 
 * Deleted branch new_features_505200  
 * 81b1f2b rectangle.py bugfix - Timofey K.  
